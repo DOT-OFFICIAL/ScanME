@@ -1,0 +1,159 @@
+Данное ПО использует сторонние ресурсы:
+
+1. Home (1) SVG Vector
+   - License: CC Attribution License
+   - Author: Solar Icons
+   - Link: https://www.svgrepo.com/svg/524649/home-1
+   - Copyright: Solar Icons
+   - See: Лицензия (https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+
+2. Settings SVG Vector
+   - License: CC Attribution License
+   - Author: Solar Icons
+   - Link: https://www.svgrepo.com/svg/524954/settings
+   - Copyright: Solar Icons
+   - See: Лицензия (https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+
+3. Info Circle SVG Vector
+   - License: CC Attribution License
+   - Author: Solar Icons
+   - Link: https://www.svgrepo.com/svg/524660/info-circle
+   - Copyright: Solar Icons
+   - See: Лицензия (https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+
+4. Alt Arrow Down SVG Vector
+   - License: CC Attribution License
+   - Author: Solar Icons
+   - Link: https://www.svgrepo.com/svg/524248/alt-arrow-down
+   - Copyright: Solar Icons
+   - See: Лицензия (https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+
+5. Link Minimalistic 2 SVG Vector
+   - License: CC Attribution License
+   - Author: Solar Icons
+   - Link: https://www.svgrepo.com/svg/524683/link-minimalistic-2
+   - Copyright: Solar Icons
+   - See: Лицензия (https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+
+6. Document Text SVG Vector
+   - License: CC Attribution License
+   - Author: Solar Icons
+   - Link: https://www.svgrepo.com/svg/524028/document-text
+   - Copyright: Solar Icons
+   - See: Лицензия (https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+
+7. More Horizontal SVG Vector
+   - License: CC Attribution License
+   - Author: krystonschwarze
+   - Link: https://www.svgrepo.com/svg/511076/more-horizontal
+   - Copyright: Solar Icons
+   - See: Лицензия (https://www.svgrepo.com/page/licensing/#CC%20Attribution)
+
+8. Printer Windows 11 Style
+   - License: Universal Multimedia License Agreement
+   - Link: https://icons8.com/icon/vccK0o8zIU3K/printer
+   - Copyright: icons8
+   - See: Лицензия (https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8)
+
+Данное ПО использует сторонние библиотеки:
+
+
+chardet==5.2.0
+License: MIT License
+Copyright (c) 2013-2021 chardet contributors
+See: https://github.com/chardet/chardet/blob/master/LICENSE
+
+
+hPyT==1.3.6
+
+License: MIT License
+See: https://github.com/hypt/hpyt/blob/main/LICENSE
+
+
+lxml==5.3.0
+License: BSD License
+Copyright (c) 2003-2021 lxml authors
+See: https://lxml.de/license
+.html
+
+Nuitka==2.5.8
+License: MIT License
+Copyright (c) 2011-2024 Nuitka contributors
+See: https://github.com/Nuitka/Nuitka/blob/master/LICENSE
+.txt
+
+ordered-set==4.1.0
+License: MIT License
+Copyright (c) 2014-2021 ordered-set authors
+See: https://github.com/mosquito/ordered-set/blob/master/LICENSE
+
+
+pillow==11.0.0
+License: HPND License
+Copyright (c) 1995-2024 contributors of the Pillow Project
+See: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+
+platformdirs==4.3.6
+License: MIT License
+Copyright (c) 2017-2024 platformdirs contributors
+See: https://github.com/platformdirs/platformdirs/blob/main/LICENSE
+
+
+PyQt5==5.15.11
+License: GPL v3 License / Commercial License (if applicable)
+Copyright (c) Riverbank Computing Limited
+See: https://www.riverbankcomputing.com/software/pyqt/license
+
+PyQt5-Qt5==5.15.2
+
+License: LGPL v3 License
+Copyright (c) The Qt Company Ltd
+See: https://www.qt.io/licensing
+
+PyQt5_sip==12.16.1
+License: GPL v3 License
+Copyright (c) Riverbank Computing Limited
+See: https://www.riverbankcomputing.com/software/sip/license
+
+
+python-docx==1.1.2
+License: MIT License
+Copyright (c) 2013-2024 python-docx contributors
+See: https://github.com/python-openxml/python-docx/blob/main/LICENSE
+
+
+pywin32==308
+License: PSF License
+Copyright (c) Mark Hammond
+See: https://github.com/mhammond/pywin32/blob/main/License
+.txt
+
+pywinstyles==1.8
+License: MIT License
+Copyright (c) 2023 PyWinStyles contributors
+See: https://github.com/user/pywinstyles/blob/main/LICENSE
+
+
+reportlab==4.2.5
+License: BSD License
+Copyright (c) 1998-2024 ReportLab Inc.
+See: https://www.reportlab.com/software/opensource/rl-toolkit/license
+/
+
+standard-distutils==3.11.9
+License: Python Software Foundation License
+Copyright (c) 2001-2024 Python Software Foundation
+See: https://github.com/python/cpython/blob/main/LICENSE
+
+
+typing_extensions==4.12.2
+License: PSF License
+Copyright (c) Python Software Foundation
+See: https://github.com/python/typing_extensions/blob/main/LICENSE
+
+
+zstandard==0.23.0
+License: BSD License
+Copyright (c) 2015-2024 Facebook, Inc. and contributors
+See: https://github.com/indygreg/python-zstandard/blob/master/LICENSE
